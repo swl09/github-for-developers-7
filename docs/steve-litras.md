@@ -1,6 +1,5 @@
- - [ ] Steve Litras
- - [ ] San Rafael, CA
- - [ ] Bacon
- - [ ] Cooking and Smoking
-
-*** Favorite Color *** Blue
+**Name:** Steve Litras
+**Location:** San Rafael, CA
+**Favorite Food:** Bacon
+**Hobbies:** Cooking and Smoking
+**Favorite Color:** Blue
